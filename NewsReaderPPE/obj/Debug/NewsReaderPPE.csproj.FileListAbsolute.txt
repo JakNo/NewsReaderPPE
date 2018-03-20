@@ -1,0 +1,9 @@
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\bin\Debug\NewsReaderPPE.exe.config
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\bin\Debug\NewsReaderPPE.exe
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\bin\Debug\NewsReaderPPE.pdb
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.Form1.resources
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.Properties.Resources.resources
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.csproj.GenerateResource.Cache
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.exe
+c:\users\kuba\documents\visual studio 2017\Projects\NewsReaderPPE\NewsReaderPPE\obj\Debug\NewsReaderPPE.pdb
